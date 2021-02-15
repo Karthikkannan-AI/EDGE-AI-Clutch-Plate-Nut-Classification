@@ -1,4 +1,4 @@
-# Clutch Plate Classification
+# EDGE AI powered Clutch Plate Classification
 
 
 ## Table of Contents ##
