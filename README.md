@@ -3,24 +3,24 @@
 
 ## Table of Contents ##
 
-* [About the Project]()
-  * [AI on the Edge]()
-  * [Application Usecases]()
-* [Solution]()
-  * [Data Collection]()
-  * [Solution Workflow]()
-  * [Evaluation of the Proposed Solution]()
-* [Conclusion]()
-* [Contact Us]()
-* [Rebounding from COVID-19]()
+* [About the Project](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#about-the-project)
+  * [AI on the Edge](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#ai-on-the-edge)
+  * [Application Usecases](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#application-usecases-of-computer-vision-powered-by-edge-ai)
+* [Solution](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#solution)
+  * [Data Collection](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#data-collection)
+  * [Solution Workflow](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#solution-workflow)
+  * [Evaluation of the Proposed Solution](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#evaluation-of-the-proposed-solution)
+* [Conclusion](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#conclusion)
+* [Contact Us](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#contact-us)
+* [Rebounding from COVID-19](https://github.com/Karthikkannan-AI/Clutch-Plate-Classification/blob/main/README.md#rebounding-from-covid-19)
 
 - - - -
 
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Soap.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Clutch Plate.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Soap.
+We have trained a Deep Learning-based Classification model to identify different types and makes of Clutch Plate.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
