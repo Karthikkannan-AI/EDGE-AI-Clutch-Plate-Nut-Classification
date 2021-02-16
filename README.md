@@ -58,19 +58,19 @@ Industry 4.0 is about creating a ‘smart factory’, a manufacturing site that 
 
 We have taken thousands of Images of the Clutch Plate in different lighting conditions, different orientations, and different background environments.
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-Clutch-Plate-Nut-Classification/blob/main/resources/Clutch%20Plate%20Classification%20Labels.png">
 
 - - - -
 
 ### Solution Workflow ###
 
-<img src="">
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-Clutch-Plate-Nut-Classification/blob/main/resources/Clutch%20Plate%20Classification%20Workflow.png">
 
 - - - -
 
 ### Evaluation of the Proposed Solution ###
 
-<a href=""/></a>
+
 
 - - - -
 
