@@ -18,9 +18,9 @@
 
 ## About the Project ##
 
-In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Clutch Plate.
+In this EDGE AI demonstration  project, we have showcased a real-world use case of Real-time Image classification of Clutch Plate Nuts.
 
-We have trained a Deep Learning-based Classification model to identify different types and makes of Clutch Plate.
+We have trained a Deep Learning-based Classification model to identify different types and makes of Clutch Plate Nuts.
 
 The Deep Learning Model is deployed in Edge Device (Google Coral) for Real-time Inference. 
 
