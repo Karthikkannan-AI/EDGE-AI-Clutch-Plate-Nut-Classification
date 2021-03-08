@@ -70,7 +70,7 @@ We have taken thousands of Images of the Clutch Plate in different lighting cond
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/9K3JUskmh84" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-Clutch-Plate-Nut-Classification/blob/main/resources/Clutch%20Plate%20Classification.png"/></a> 
+<a href="https://youtu.be/NOkR0QRW5SA" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-Clutch-Plate-Nut-Classification/blob/main/resources/Clutch%20Plate%20Classification.png"/></a> 
 
 - - - -
 
